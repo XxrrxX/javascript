@@ -1,0 +1,11 @@
+document.write("JS is cool!"+"<br>");
+var x = 42;
+document.write(x);
+document.write("<br>");
+//x = 8;
+x=2;
+//x=3;
+document.write(x);
+document.write("<br>");
+name = "James"+"<br>";
+document.write(name);
